@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+}
+h3 h2 h1 h4 {
+    background-color: aqua;
+}
+*{
+    font-style: italic;
+}
+.center-content {
+    background-color: palevioletred;
+}
+.center-content h3,
+.center-content p {
+    text-align: center;
+}
+.right-content {
+    font-size: 35px;
+}
+.red-content {
+    background-color: red;
+
+}
+.border-content {
+    border: 3px solid black;
+    border-radius: 5%;
+    background-color: blue;
+}
+ul {
+    background-color: green;
+}

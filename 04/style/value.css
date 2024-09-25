@@ -1,0 +1,19 @@
+body {
+    background-color: darkblue;
+}
+h1 {
+    background-color: aqua;
+    text-align: center;
+}
+h2 {
+    color: black;
+    background-color: bisque;
+    text-align: center;
+}
+img {
+    border-top: 1px;
+    border: 2px solid red;
+    border-top: 5px  red;
+    border-right-width:4px ;
+    width: 250px;
+}
